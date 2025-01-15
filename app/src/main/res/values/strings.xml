@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">OTPTextField</string>
+
+    <!-- Main -->
+    <string name="empty_sign">-</string>
+    <string name="otp_is_valid">OTP is valid!</string>
+    <string name="otp_is_invalid">OTP is invalid!</string>
 </resources>
